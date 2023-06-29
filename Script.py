@@ -6,15 +6,15 @@ class script(object):
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : Koyeb
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : KOYEB
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝚟1.0.0"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/tamilmvworld>TamilMvWorld</a>
+- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 : <a href=https://t.me/tamilmvworld>TamilMvWorld</a>
 
 <b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/tamilan444>JS</a>
-- 𝙳𝚎𝚟 2<a href=https://t.me/FlashBoys_01>Rio</a>"""
+- 𝙳𝚎𝚟 1 <a href=https://t.me/tamilan444>JS</a>
+- 𝙳𝚎𝚟 2 <a href=https://t.me/FlashBoys_01>Rio</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
